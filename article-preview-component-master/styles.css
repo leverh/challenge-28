@@ -108,6 +108,9 @@ h2 {
 
 #img-btn {
     margin-left: 2.5rem;
+    background-color: hsl(212, 23%, 69%);
+    padding: 0.7rem;
+    border-radius: 50%;
 }
 
 #img-btn:hover {
