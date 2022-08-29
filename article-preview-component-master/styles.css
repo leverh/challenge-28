@@ -110,6 +110,10 @@ h2 {
     margin-left: 2.5rem;
 }
 
+#img-btn:hover {
+    cursor: pointer;
+}
+
 .dropdown-content {
     background-color: hsl(217, 19%, 35%);
     z-index: 1;
@@ -119,6 +123,10 @@ h2 {
     padding-bottom: 0.5rem;
     text-align: center;
     border-radius: 8px;
+}
+
+.dropdown-content:hover {
+    cursor: pointer;
 }
 
 .dropdown-content p {
